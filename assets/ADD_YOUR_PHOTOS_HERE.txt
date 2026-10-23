@@ -1,0 +1,10 @@
+ADD YOUR OWN IMAGES HERE
+
+1. Put your profile picture here and name it: profile.jpg
+2. Add project screenshots using these filenames:
+   - project-nebula.jpg
+   - project-eduassist.jpg
+   - project-msme.jpg
+3. Keep the filenames exactly as written, or update the paths in config.js.
+4. Replace the example GitHub links in config.js with your actual repository URLs.
+Use a square portrait for profile.jpg and landscape screenshots for project images.
